@@ -1,7 +1,8 @@
-# Obsah
+# Obsah:
 -[logopy](#Základni_pojmy)
+-[bobanek](#uprimne_uz_nevim)
 ## Základní pojmy:
-Python:
+Krajta:
 ![py](https://github.com/user-attachments/assets/1f080371-d995-4c8c-8f16-07bdf5019f9c)
 
 
@@ -13,3 +14,5 @@ age=input("Kolik ti je? ")
 print(f"jmenuješ se {name} a je ti {age} let")
 #caukymnauky
 ```
+# uprimne uz nevim
+![bobanek](https://github.com/user-attachments/assets/094d40cf-90de-4395-b4e7-9b91f27a2959)
