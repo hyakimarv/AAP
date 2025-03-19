@@ -1,6 +1,6 @@
 # Obsah:
 -[logopy](#Základni_pojmy)
--[bobanek](#uprimne_uz_nevim)
+- [bobanek](#uprimne_uz_nevim)
 ## Základní pojmy:
 Krajta:
 ![py](https://github.com/user-attachments/assets/1f080371-d995-4c8c-8f16-07bdf5019f9c)
