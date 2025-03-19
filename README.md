@@ -1,7 +1,7 @@
 # Obsah:
 - [logopy](#Základni_pojmy)
 - [bobanek](#uprimne_uz_nevim)
-- [ja](#on_je_ja_lidi)
+- [ja](#on-je-ja-lidi)
 ## Základní pojmy:
 Krajta:
 ![py](https://github.com/user-attachments/assets/6f58cf9b-ca46-47f2-9adb-d3ea2391fce4)
