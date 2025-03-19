@@ -1,6 +1,6 @@
 # Obsah:
-- [logopy](#Základni_pojmy)
-- [bobanek](#uprimne_uz_nevim)
+- [logopy](#Základni-pojmy)
+- [bobanek](#uprimne-uz-nevim)
 - [ja](#on-je-ja-lidi)
 ## Základní pojmy:
 Krajta:
