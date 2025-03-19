@@ -1,6 +1,7 @@
 # Obsah:
 - [logopy](#Základni_pojmy)
 - [bobanek](#uprimne_uz_nevim)
+- [ja](#on_je_ja_lidi)
 ## Základní pojmy:
 Krajta:
 ![py](https://github.com/user-attachments/assets/6f58cf9b-ca46-47f2-9adb-d3ea2391fce4)
@@ -19,3 +20,5 @@ print(f"jmenuješ se {name} a je ti {age} let")
 ```
 # uprimne uz nevim
 ![bobanek](https://github.com/user-attachments/assets/094d40cf-90de-4395-b4e7-9b91f27a2959)
+## on je ja lidi
+![ja](https://github.com/user-attachments/assets/d984f0ad-e2e0-4704-88ca-337c0c515b24)
